@@ -1,1 +1,1 @@
-redirect output
+standard output
